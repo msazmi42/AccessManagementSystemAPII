@@ -1,4 +1,4 @@
-namespace AccessManagementSystemAPI
+namespace LearnAPI
 {
     public class WeatherForecast
     {
